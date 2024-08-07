@@ -18,3 +18,4 @@ for i in range(0,l):
     j = j+li[i]
 
 print(j)
+o
